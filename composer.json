@@ -16,10 +16,11 @@
             "Multidots\\Contact\\": "src/"
         }
     },
+
     "extra": {
         "laravel": {
             "providers": [
-                "Multidtos\\Contact\\ContactServiceProvider"
+                "Multidots\\Contact\\ContactServiceProvider"
             ]
         }
     }
