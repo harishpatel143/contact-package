@@ -15,5 +15,12 @@
         "psr-4": {
             "Multidots\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Multidtos\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
