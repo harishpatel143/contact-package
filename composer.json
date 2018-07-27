@@ -16,7 +16,6 @@
             "Multidots\\Contact\\": "src/"
         }
     },
-
     "extra": {
         "laravel": {
             "providers": [
