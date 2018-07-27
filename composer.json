@@ -1,0 +1,19 @@
+{
+    "name": "hrsptl/contact",
+    "description": "This will send email to admin for any query and save in database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "harish.patel",
+            "email": "harish.patel@multidots.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Multidots\\Contact\\": "src/"
+        }
+    }
+}
